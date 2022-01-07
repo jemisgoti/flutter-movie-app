@@ -28,16 +28,16 @@ Flix is a movie app that allows users to search for movies and add them to their
 
 
 <p float="left">
-  <img src="flutter_01.png" width="100" /> 
-   <img src="flutter_02.png" width="100" />
-    <img src="flutter_03.png" width="100" />
-      <img src="flutter_04.png" width="100" />
-        <img src="flutter_05.png" width="100" />
-        <img src="flutter_06.png" width="100" />
-          <img src="flutter_07.png" width="100" />
-          <img src="flutter_08.png" width="100" />
-            <img src="flutter_09.png" width="100" />
-            <img src="flutter_10.png" width="100" /> 
+  <img src="flutter_01.png" width="200" /> 
+   <img src="flutter_02.png" width="200" />
+    <img src="flutter_03.png" width="200" />
+      <img src="flutter_04.png" width="200" />
+        <img src="flutter_05.png" width="200" />
+        <img src="flutter_06.png" width="200" />
+          <img src="flutter_07.png" width="200" />
+          <img src="flutter_08.png" width="200" />
+            <img src="flutter_09.png" width="200" />
+            <img src="flutter_10.png" width="200" /> 
    
 </p>
 
