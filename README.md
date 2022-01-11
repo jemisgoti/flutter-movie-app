@@ -56,7 +56,7 @@ follow this step for quick setup.
 
 ```sh
 git clone https://github.com/jemisgoti/flutter-movie-app.git
-cd Trackex
+cd flutter-movie-app
 flutter doctor
 flutter pub get
 flutter run
